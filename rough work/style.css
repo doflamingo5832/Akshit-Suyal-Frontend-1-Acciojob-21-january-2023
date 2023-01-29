@@ -1,0 +1,22 @@
+.container{
+    background-color: aqua;
+    width: 100%;
+    display: flex;
+    direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
+    row-gap: 30px;
+    column-gap: 100px;
+}
+
+
+.container .accio{
+color: white;
+background-color: rgb(191, 233, 7);
+width: 200px;
+margin: 20px;
+padding: 1%;
+
+}

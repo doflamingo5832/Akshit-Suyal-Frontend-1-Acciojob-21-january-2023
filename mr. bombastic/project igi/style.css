@@ -1,0 +1,33 @@
+
+*{
+    margin: 0%;
+    border: 0%;
+}
+
+
+.full{
+    display: flex;
+    background-color: aqua;
+    width: 100%;
+    height: auto;
+}
+
+.navbar{
+background-color:black ;
+color: white;
+width: 277%;
+height: 103%;
+margin-top: 0%
+position: relative;  
+
+}
+
+.nav2{
+    display:flex;
+    align-content: flex-end;
+
+}
+
+.navbar li{
+    display: inline;
+}
